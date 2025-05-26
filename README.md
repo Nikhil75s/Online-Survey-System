@@ -81,10 +81,10 @@ Survey System Menu:
 
 ## 👨‍🏫 Authors
 
-- Yash Negi – [RA2311056030009]
-- Shlok Saxena – [RA2311056030029]
-- Nikhil Sharma – [RA2311056030043]
-- Ankit Tehri – [RA2311056030057]
+- Yash Negi 
+- Shlok Saxena 
+- Nikhil Sharma
+- Ankit Tehri
 
 **Under the guidance of**  
 _Mr. Himanshu_  
@@ -92,8 +92,22 @@ Assistant Professor, Department of CSE
 
 ## 📚 References
 
-See full references in the [project report](./Online Survey system.docx). Includes books like *Java How to Program*, *Core Java*, *Database System Concepts*, and official Oracle documentation.
+1.	Deitel, H., & Deitel, P. (2017). Java: How to Program (Late Objects). Pearson Education.
 
-## 📜 License
+2.	Horstmann, C. S., & Cornell, G. (2019). Core Java Volume I—Fundamentals. Pearson Education.
 
-This project is developed for academic purposes. For reuse or collaboration, please contact the authors.
+3.	Silberschatz, A., Korth, H. F., & Sudarshan, S. (2020). Database System Concepts. McGraw-Hill Education.
+.
+4.	Pratt, P. J., & Adamski, J. J. (2018). Concepts of Database Management. Cengage Learning.
+
+5.	Burd, B. (2020). Beginning Programming with Java For Dummies. Wiley.
+
+6.	Oracle Corporation. (2024). Java Database Connectivity (JDBC) Developer's Guide. Oracle Corporation.
+
+7.	Oracle Corporation. (2024). Oracle SQL Developer User's Guide. Oracle Corporation.
+
+8.	Fowler, M. (2002). Patterns of Enterprise Application Architecture. Addison-Wesley.
+
+9.	Nielsen, J. (1994). Usability Engineering. Academic Press.
+
+10.	Pressman, R. S., & Maxim, B. R. (2020). Software Engineering: A Practitioner's Approach. McGraw-Hill Education.
